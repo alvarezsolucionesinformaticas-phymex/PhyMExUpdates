@@ -1,0 +1,13 @@
+{
+    "programa": "PhyMEx",
+    "canal": "stable",
+    "version": "10.0",
+    "build": 1,
+    "required": false,
+    "url": "",
+    "fecha": "2026-07-29",
+    "mensaje": "Versión estable.",
+    "cambios": [
+        "Versión inicial del sistema de actualizaciones."
+    ]
+}
