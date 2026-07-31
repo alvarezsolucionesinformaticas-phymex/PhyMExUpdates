@@ -2,7 +2,7 @@
     "programa": "PhyMEx",
     "canal": "stable",
     "version": "10.1",
-    "build": 2,
+    "build": 1,
     "severity":"recommended",
     "required": false,
     "url": "",
