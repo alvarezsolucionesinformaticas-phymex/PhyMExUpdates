@@ -3,6 +3,7 @@
     "canal": "stable",
     "version": "10.0",
     "build": 2,
+    "severity":"recommended",
     "required": false,
     "url": "",
     "fecha": "2026-07-29",
