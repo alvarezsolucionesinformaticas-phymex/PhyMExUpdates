@@ -15,6 +15,8 @@
     "fecha": "2026-07-29",
     
     "mensaje": "Versión estable.",
+
+    "release_notes": "https://github.com/.../releases/tag/v10.2",
     
     "cambios":[
     "🆕 Nuevo sistema de actualizaciones",
