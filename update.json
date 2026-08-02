@@ -1,14 +1,21 @@
 {
     "programa": "PhyMEx",
     "canal": "stable",
+    
     "version": "10.0",
     "build": 1,
+    
     "severity":"recommended",
     "required": false,
-    "url": "",
+    
+    "installer": "",
+    "sha256": "",
+    "size": 0,
+    
     "fecha": "2026-07-29",
+    
     "mensaje": "Versión estable.",
-    "tamaño": "",
+    
     "cambios":[
     "🆕 Nuevo sistema de actualizaciones",
     "⚡ Mayor velocidad al iniciar",
