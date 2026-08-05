@@ -3,25 +3,22 @@
     "canal": "stable",
     
     "version": "10.0",
-    "build": 1,
+    "build": 2,
     
     "severity":"recommended",
     "required": false,
     
-    "installer": "",
+    "installer": "https://.../PhyMExSetup.exe",
     "sha256": "",
-    "tamaño": 0,
+    "tamaño": "25 MB",
     
-    "fecha": "2026-07-29",
+    "fecha": "2026-08-05",
     
-    "mensaje": "Versión estable.",
+    "mensaje": "Nueva versión disponible.",
 
     "release_notes": "https://github.com/.../releases/tag/v10.2",
     
     "cambios":[
-    "🆕 Nuevo sistema de actualizaciones",
-    "⚡ Mayor velocidad al iniciar",
-    "🐞 Corrección de errores en Compras",
-    "💰 Mejoras en Contabilidad"
+    "Nueva actualización."
     ]
 }
