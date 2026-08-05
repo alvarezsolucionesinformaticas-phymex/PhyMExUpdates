@@ -9,7 +9,7 @@
     "required": false,
     
     "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/blob/main/11.txt",
-    "sha256": "",
+    "sha256": "123456",
     "tamaño": "25 MB",
     
     "fecha": "2026-08-05",
