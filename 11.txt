@@ -1,0 +1,23 @@
+UpdateManager
+
+    obtener_info_servidor()
+
+    comparar_versiones()
+
+    hay_actualizacion()
+
+    obtener_version_actual()
+
+    obtener_version_servidor()
+
+    obtener_cambios()
+
+    es_obligatoria()
+
+    descargar_actualizacion()
+
+    ejecutar_instalador()
+
+    guardar_ultima_revision()
+
+    cargar_ultima_revision()
