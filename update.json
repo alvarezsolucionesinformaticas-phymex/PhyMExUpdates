@@ -8,7 +8,7 @@
     "severity":"recommended",
     "required": false,
     
-    "installer": "https://.../PhyMExSetup.exe",
+    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/blob/main/11.txt",
     "sha256": "",
     "tamaño": "25 MB",
     
