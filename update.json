@@ -12,13 +12,15 @@
     "sha256": "059f06ab630eafa82806d3b08587a58c1956292ddd2d2f3d3c8ca1517d59b00d",
     "tamaño": "25 MB",
     
-    "fecha": "2026-08-05",
+    "fecha": "2026-08-15",
     
     "mensaje": "Nueva versión disponible.",
 
     "release_notes": "https://github.com/.../releases/tag/v10.2",
     
     "cambios":[
-    "Nueva actualización."
+    "- Titulo dinámico en ventana principal.",
+    "- Logo dinámico en ventana principal.",
+    "- Mejoras en Módulo Informes"
     ]
 }
