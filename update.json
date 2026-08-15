@@ -8,7 +8,7 @@
     "severity":"recommended",
     "required": false,
     
-    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v10.1/PhyMEx_Update_10.1.exe",
+    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v10.1_3/PhyMEx_101_b3_Setup.exe",
     "sha256": "059f06ab630eafa82806d3b08587a58c1956292ddd2d2f3d3c8ca1517d59b00d",
     "tamaño": "25 MB",
     
