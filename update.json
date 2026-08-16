@@ -8,19 +8,19 @@
     "severity":"recommended",
     "required": false,
     
-    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v10.1_3/PhyMEx_101_b3_Setup.exe",
+    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v10.1_4/PhyMEx_101_b4_Setup.exe",
     "sha256": "725c54bb1bf730fe18e85b7392c621fdadc3197d8cc0d41c4f0c7b41e0ee93a7",
-    "tamaño": "25 MB",
+    "tamaño": "117 MB",
     
-    "fecha": "2026-08-15",
+    "fecha": "2026-08-16",
     
     "mensaje": "Nueva versión disponible.",
 
     "release_notes": "https://github.com/.../releases/tag/v10.2",
     
     "cambios":[
-    "- Titulo dinámico en ventana principal.",
-    "- Logo dinámico en ventana principal.",
-    "- Mejoras en Módulo Informes"
+    "Corrección de errores en sincronizaci+on con Google drive.",
+    "Se agrega botón Mi Whatsapp.",
+    "Se agrega botón Mi Instagram."
     ]
 }
