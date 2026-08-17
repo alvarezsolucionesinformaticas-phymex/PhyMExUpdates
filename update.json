@@ -8,19 +8,19 @@
     "severity":"recommended",
     "required": false,
     
-    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v10.1_4/PhyMEx_101_b4_Setup.exe",
-    "sha256": "1141b8ad5996c318121965dcc7b81e9d355a60e8a4cf629be9a663510f0b2b50",
+    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v10.1_4/PhyMEx_101_b5_Setup.exe",
+    "sha256": "36ea2ea9edb505bab00bd67999aa3126b480e017897d4b20854f252257c29ed0",
     "tamaño": "92 MB",
     
-    "fecha": "2026-08-16",
+    "fecha": "2026-08-17",
     
     "mensaje": "Nueva versión disponible.",
 
     "release_notes": "",
     
     "cambios":[
-    "Corrección de errores en sincronizaci+on con Google drive.",
-    "Se agrega botón Mi Whatsapp.",
-    "Se agrega botón Mi Instagram."
+    "Corrección de errores en Migración de Base de Datos",
+    "Corrección de errores en Módulo Contabilidad.",
+    "Corrección de errores en Módulo Informes"
     ]
 }
