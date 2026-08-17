@@ -3,7 +3,7 @@
     "canal": "stable",
     
     "version": "10.1",
-    "build": 4,
+    "build": 5,
     
     "severity":"recommended",
     "required": false,
