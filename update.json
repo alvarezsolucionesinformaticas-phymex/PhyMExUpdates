@@ -3,13 +3,13 @@
     "canal": "stable",
     
     "version": "10.1",
-    "build": 5,
+    "build": 8,
     
     "severity":"recommended",
     "required": false,
     
-    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v10.1_5/PhyMEx_101_b5_Setup.exe",
-    "sha256": "36ea2ea9edb505bab00bd67999aa3126b480e017897d4b20854f252257c29ed0",
+    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v10.1_5/PhyMEx_101_b8_Setup.exe",
+    "sha256": "f615e4bad68e20736195582227bb1bcc56e2a7fad3a50fd050522dbf0016c146",
     "tamaño": "92 MB",
     
     "fecha": "2026-08-17",
@@ -19,8 +19,8 @@
     "release_notes": "",
     
     "cambios":[
-    "Corrección de errores en Migración de Base de Datos",
-    "Corrección de errores en Módulo Contabilidad.",
-    "Corrección de errores en Módulo Informes"
+    "Corrección de errores en la Interfaz.",
+    "Corrección de errores en los reportes.",
+    "Incorporación de Dolar al Sistema de Stock."
     ]
 }
