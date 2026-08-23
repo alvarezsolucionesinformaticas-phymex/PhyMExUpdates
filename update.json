@@ -8,11 +8,11 @@
     "severity":"recommended",
     "required": false,
     
-    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v10.1_5/PhyMEx_101_b8_Setup.exe",
+    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v10.1_8/PhyMEx_101_b8_Setup.exe",
     "sha256": "f615e4bad68e20736195582227bb1bcc56e2a7fad3a50fd050522dbf0016c146",
     "tamaño": "92 MB",
     
-    "fecha": "2026-08-17",
+    "fecha": "2026-08-23",
     
     "mensaje": "Nueva versión disponible.",
 
