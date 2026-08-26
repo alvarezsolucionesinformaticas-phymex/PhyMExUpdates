@@ -8,7 +8,7 @@
     "severity":"recommended",
     "required": false,
     
-    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v10.1_8/PhyMEx_101_b8_Setup.exe",
+    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v10.1_9/PhyMEx_101_b9_Setup.exe",
     "sha256": "a32f64f2e3af335eb6c10cb75fc7688a93ea9f83d266515b3a0e9f46cbb78d41",
     "tamaño": "92 MB",
     
@@ -19,8 +19,7 @@
     "release_notes": "",
     
     "cambios":[
-    "Corrección de errores en la Interfaz.",
-    "Corrección de errores en los reportes.",
-    "Incorporación de Dolar al Sistema de Stock."
+    "Corrección de Inicio de Sesión.",
+    "Integración de Centro de Notificaciones.",
     ]
 }
