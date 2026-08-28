@@ -2,14 +2,14 @@
     "programa": "PhyMEx",
     "canal": "stable",
     
-    "version": "10.1",
-    "build": 10,
+    "version": "11.0",
+    "build": 1,
     
     "severity":"recommended",
     "required": false,
     
     "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v10.1_10/PhyMEx_101_b10_Setup.exe",
-    "sha256": "8931a413359a04f9c6087f89b291aee91c4b423b5e3848382cc11cd9b9e25c9e",
+    "sha256": "083505fc8db7b7f63d0d76aba205561414893e44576e6a7f7dcfff1d01a8197c",
     "tamaño": "91.63 MB",
     
     "fecha": "2026-08-28",
@@ -19,7 +19,6 @@
     "release_notes": "",
     
     "cambios":[
-    "Corrección en Centro de Notificaciones.",
-    "Rediseño de interfaz."
+    "Corrección en Login."
     ]
 }
