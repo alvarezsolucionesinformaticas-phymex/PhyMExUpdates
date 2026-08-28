@@ -3,23 +3,23 @@
     "canal": "stable",
     
     "version": "10.1",
-    "build": 9,
+    "build": 10,
     
     "severity":"recommended",
     "required": false,
     
     "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v10.1_9/PhyMEx_101_b9_Setup.exe",
-    "sha256": "a32f64f2e3af335eb6c10cb75fc7688a93ea9f83d266515b3a0e9f46cbb78d41",
+    "sha256": "8931a413359a04f9c6087f89b291aee91c4b423b5e3848382cc11cd9b9e25c9e",
     "tamaño": "92 MB",
     
-    "fecha": "2026-08-26",
+    "fecha": "2026-08-28",
     
     "mensaje": "Nueva versión disponible.",
 
     "release_notes": "",
     
     "cambios":[
-    "Corrección de Inicio de Sesión.",
-    "Integración de Centro de Notificaciones."
+    "Corrección en Centro de Notificaciones.",
+    "Rediseño de interfaz."
     ]
 }
