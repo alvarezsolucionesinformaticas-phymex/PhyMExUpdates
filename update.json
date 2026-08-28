@@ -3,14 +3,14 @@
     "canal": "stable",
     
     "version": "11.0",
-    "build": 1,
+    "build": 2,
     
     "severity":"recommended",
     "required": false,
     
-    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v11.0_1/PhyMEx_110_b1_Setup.exe",
-    "sha256": "083505fc8db7b7f63d0d76aba205561414893e44576e6a7f7dcfff1d01a8197c",
-    "tamaño": "91.63 MB",
+    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v11.0_2/PhyMEx_110_b2_Setup.exe",
+    "sha256": "bd5cc29989653f0023acf6978396484cc64ec692c2f5ae191cf760f166286213",
+    "tamaño": "92.20 MB",
     
     "fecha": "2026-08-28",
     
@@ -19,6 +19,6 @@
     "release_notes": "",
     
     "cambios":[
-    "Corrección en Login."
+    "Correcciones Varias."
     ]
 }
