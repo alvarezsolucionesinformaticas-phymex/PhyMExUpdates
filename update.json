@@ -3,22 +3,22 @@
     "canal": "stable",
     
     "version": "11.0",
-    "build": 2,
+    "build": 3,
     
     "severity":"recommended",
     "required": false,
     
-    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v11.0_2/PhyMEx_110_b2_Setup.exe",
-    "sha256": "bd5cc29989653f0023acf6978396484cc64ec692c2f5ae191cf760f166286213",
-    "tamaño": "92.20 MB",
+    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v11.0_3/PhyMEx_110_b3_Setup.exe",
+    "sha256": "8584bbfaf9abd44531a4a69b0aad45401e4497d3909d9d4c3c8c47fdff9080c0",
+    "tamaño": "92.25 MB",
     
-    "fecha": "2026-08-28",
+    "fecha": "2026-08-29",
     
     "mensaje": "Nueva versión disponible.",
 
     "release_notes": "",
     
     "cambios":[
-    "Correcciones Varias."
+    "Incorporación de PhyMEx Scanner."
     ]
 }
