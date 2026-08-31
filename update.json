@@ -3,16 +3,16 @@
     "canal": "stable",
     
     "version": "11.1",
-    "build": 1,
+    "build": 2,
     
     "severity":"recommended",
     "required": false,
     
-    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v11.1_1/PhyMEx_111_b1_Setup.exe",
-    "sha256": "4a0260e97fcd7288aa413c01445d81660976af0791865c8a58d0e6974b3350da",
+    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v11.1_2/PhyMEx_111_b2_Setup.exe",
+    "sha256": "de7b6cb86838ae25f2543595bc065e2d78cfa94246482c138756bdde961cec30",
     "tamaño": "97.54 MB",
     
-    "fecha": "2026-08-30",
+    "fecha": "2026-08-31",
     
     "mensaje": "Nueva versión disponible.",
 
@@ -25,6 +25,7 @@
     "Optimización uso de Whatsapp",
     "Optimización Auditoria",
     "Incorporación Realizar Sorteo en Módulo Clientes",
-    "Incorporación ARCA en Módulo Contabilidad"
+    "Incorporación ARCA en Módulo Contabilidad",
+    "Optimización ARCA"
     ]
 }
