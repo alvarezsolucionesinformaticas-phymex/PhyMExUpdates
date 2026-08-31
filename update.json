@@ -2,8 +2,8 @@
     "programa": "PhyMEx",
     "canal": "stable",
     
-    "version": "11.0",
-    "build": 3,
+    "version": "11.1",
+    "build": 1,
     
     "severity":"recommended",
     "required": false,
