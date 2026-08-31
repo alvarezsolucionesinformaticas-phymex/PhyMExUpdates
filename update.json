@@ -3,13 +3,13 @@
     "canal": "stable",
     
     "version": "11.1",
-    "build": 2,
+    "build": 3,
     
     "severity":"recommended",
     "required": false,
     
-    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v11.1_2/PhyMEx_111_b2_Setup.exe",
-    "sha256": "de7b6cb86838ae25f2543595bc065e2d78cfa94246482c138756bdde961cec30",
+    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v11.1_3/PhyMEx_111_b3_Setup.exe",
+    "sha256": "724b6b3bb80bb7ba7cc335d4816814ca4c4b9b4d8cf3af1c8b660252f529b459",
     "tamaño": "97.54 MB",
     
     "fecha": "2026-08-31",
@@ -26,6 +26,7 @@
     "Optimización Auditoria",
     "Incorporación Realizar Sorteo en Módulo Clientes",
     "Incorporación ARCA en Módulo Contabilidad",
-    "Optimización ARCA"
+    "Optimización ARCA",
+    "Corrección ARCA"
     ]
 }
