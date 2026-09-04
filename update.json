@@ -3,30 +3,24 @@
     "canal": "stable",
     
     "version": "11.1",
-    "build": 3,
+    "build": 4,
     
     "severity":"recommended",
     "required": false,
     
-    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v11.1_3/PhyMEx_111_b3_Setup.exe",
-    "sha256": "724b6b3bb80bb7ba7cc335d4816814ca4c4b9b4d8cf3af1c8b660252f529b459",
+    "installer": "https://github.com/alvarezsolucionesinformaticas-phymex/PhyMExUpdates/releases/download/v11.1_4/PhyMEx_111_b4_Setup.exe",
+    "sha256": "d501d65126b3a0eedab5eca453327a91a2560d69592d1d06d00376da383a845a",
     "tamaño": "97.54 MB",
     
-    "fecha": "2026-08-31",
+    "fecha": "2026-09-04",
     
     "mensaje": "Nueva versión disponible.",
 
     "release_notes": "",
     
     "cambios":[
-    "Correccion Excel y Buscar",
-    "Correciones Graficas",
-    "Optimización Módulo Servicios",
-    "Optimización uso de Whatsapp",
-    "Optimización Auditoria",
-    "Incorporación Realizar Sorteo en Módulo Clientes",
-    "Incorporación ARCA en Módulo Contabilidad",
-    "Optimización ARCA",
-    "Corrección ARCA"
+    "Optimización Módulo Ventas",
+    "Optimización Módulo Compra",
+    "Optimización Módulo Contabilidad"
     ]
 }
